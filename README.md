@@ -18,7 +18,7 @@ GIFs may take a few seconds to load. If they don't appear immediately &mdash; re
 ```bash
 
 git clone https://github.com/Ks577/antistress-draw-flutter-app.git
-cd animations-flutter
+cd antistress-draw-flutter-app
 flutter pub get
 flutter run
 ```
