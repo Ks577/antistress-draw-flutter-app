@@ -1,17 +1,24 @@
-# quiet_ink
+# 🧘 Quiet Ink
 
-A new Flutter project.
+A simple app for quick attention shifting and reducing anxiety here and now through meditative drawing with a single animated rainbow pen.
 
-## Getting Started
+## 📸 Demo / Preview
 
-This project is a starting point for a Flutter application.
+GIFs may take a few seconds to load. If they don't appear immediately &mdash; refresh the page.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+  <img src="assets/preview/demo1.gif" width="340">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  <img src="assets/preview/demo2.gif" width="340">
+
+
+## 🛠️ Installation
+
+```bash
+
+git clone https://github.com/Ks577/antistress-draw-flutter-app.git
+cd animations-flutter
+flutter pub get
+flutter run
+```
